@@ -1,4 +1,4 @@
-World Stock Price Prediction Using Machine Learning
+#World Stock Price Prediction Using Machine Learning
 
 Description:
 This project focuses on predicting world stock prices using various machine learning techniques. The dataset undergoes preprocessing and exploratory data analysis (EDA) to uncover trends and patterns. Several regression models are implemented to make accurate predictions, including Gradient Boosting, XGBoost, Decision Tree, and Random Forest. The models are evaluated based on performance metrics, such as the R² score, with Gradient Boosting and XGBoost showing excellent results. This project serves as a demonstration of applying machine learning to financial time series data for stock price prediction.
